@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @memesscience
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning to code in PHP
+- 💞️ I’m looking to collaborate on an open source multiplayer text editor
+- 😄 Pronouns: he/him
